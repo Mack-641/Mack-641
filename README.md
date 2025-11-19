@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🚀 What I Do
 
 * Collaborate on team projects and open-source contributions
-* Build and maintain frontend, backend services & REST APIs
+* Build and maintain frontend frameworks, backend services & REST APIs
 
 ---
 
